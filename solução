@@ -1,0 +1,141 @@
+📢 Sistema de Aviso Escolar
+
+«Documento de Requisitos — Etapa 01 do Projeto Integrador II»
+
+---
+
+📌 1. Introdução
+
+O Sistema de Aviso Escolar tem como finalidade facilitar a comunicação entre a instituição de ensino, professores e alunos.
+
+A proposta é centralizar os avisos escolares em uma única plataforma, permitindo que as informações sejam publicadas e consultadas de maneira organizada, rápida e acessível.
+
+---
+
+🎯 2. Objetivo
+
+O objetivo principal é desenvolver um sistema capaz de cadastrar, organizar, pesquisar, editar, excluir e visualizar avisos escolares.
+
+Com isso, pretende-se melhorar a comunicação dentro da instituição e facilitar o acesso dos alunos às informações importantes.
+
+---
+
+👥 3. Público-alvo
+
+O sistema será destinado principalmente a:
+
+- 🎓 Alunos
+- 👨‍🏫 Professores
+- 🏫 Funcionários da instituição
+
+---
+
+⚙️ 4. Requisitos Funcionais
+
+Código| Requisito| Descrição
+RF01| Cadastrar aviso| O sistema deverá permitir o cadastro de novos avisos.
+RF02| Visualizar aviso| O usuário deverá conseguir visualizar os avisos publicados.
+RF03| Editar aviso| Usuários autorizados poderão alterar informações de um aviso.
+RF04| Excluir aviso| Usuários autorizados poderão excluir avisos.
+RF05| Pesquisar aviso| O sistema deverá permitir a pesquisa de avisos.
+RF06| Categorizar aviso| Os avisos poderão ser organizados por categorias.
+RF07| Informar data| Cada aviso deverá apresentar sua data de publicação.
+
+---
+
+🔒 5. Requisitos Não Funcionais
+
+Código| Requisito| Descrição
+RNF01| Usabilidade| A interface deverá ser simples e fácil de utilizar.
+RNF02| Compatibilidade| O sistema deverá funcionar em navegadores modernos.
+RNF03| Responsividade| A aplicação deverá se adaptar a diferentes tamanhos de tela.
+RNF04| Organização| Os arquivos e códigos deverão seguir uma organização adequada.
+RNF05| Desempenho| O sistema deverá apresentar os avisos de maneira rápida.
+
+---
+
+📋 6. Escopo
+
+✅ Dentro do escopo
+
+- Cadastro de avisos;
+- Visualização de avisos;
+- Pesquisa;
+- Edição;
+- Exclusão;
+- Organização por categorias;
+- Registro da data de publicação.
+
+❌ Fora do escopo inicial
+
+- Aplicativo para celular;
+- Integração com redes sociais;
+- Sistema avançado de notificações;
+- Recursos que não estejam relacionados aos avisos escolares.
+
+---
+
+🧩 7. Fluxo básico do sistema
+
+Usuário
+   ↓
+Acessa o sistema
+   ↓
+Visualiza os avisos
+   ↓
+Pesquisa ou seleciona um aviso
+   ↓
+Consulta as informações
+
+Para usuários autorizados:
+
+Usuário autorizado
+       ↓
+Cadastrar / Editar / Excluir aviso
+       ↓
+Sistema atualiza os avisos
+       ↓
+Alunos visualizam as informações
+
+---
+
+🚀 8. Possíveis melhorias futuras
+
+O sistema poderá receber novas funcionalidades durante as próximas etapas, como:
+
+- 🔐 Sistema de login;
+- 👨‍🏫 Área exclusiva para professores;
+- 🔔 Notificações de novos avisos;
+- 🎓 Filtros por turma;
+- 📚 Filtros por disciplina;
+- 💾 Banco de dados;
+- 📜 Histórico de avisos;
+- 🔑 Sistema de permissões de usuários.
+
+---
+
+✅ 9. Critérios de Aceitação
+
+O sistema deverá ser considerado funcional quando:
+
+- [ ] For possível cadastrar um aviso;
+- [ ] For possível visualizar um aviso;
+- [ ] For possível pesquisar avisos;
+- [ ] For possível editar um aviso;
+- [ ] For possível excluir um aviso;
+- [ ] Os avisos apresentarem sua data;
+- [ ] A interface for simples e organizada.
+
+---
+
+📝 10. Considerações Finais
+
+O Sistema de Aviso Escolar busca oferecer uma solução simples e eficiente para melhorar a comunicação entre a escola e seus alunos.
+
+A documentação apresentada servirá como base para o desenvolvimento das próximas etapas do Projeto Integrador II.
+
+---
+
+Projeto: Sistema de Aviso Escolar
+Etapa: 01 — Projeto Integrador II
+Documento: Requisitos do Sistema
